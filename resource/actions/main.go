@@ -8,9 +8,9 @@ import (
 	"github.com/fatih/color"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/postgres"
-	"github.com/paurudev/admin"
-	"github.com/paurudev/qor-website-cases/config"
-	"github.com/paurudev/roles"
+	"github.com/pauradev/admin"
+	"github.com/pauradev/qor-website-cases/config"
+	"github.com/pauradev/roles"
 	appkitlog "github.com/theplant/appkit/log"
 	"github.com/theplant/appkit/server"
 )

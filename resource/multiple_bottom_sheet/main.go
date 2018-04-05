@@ -10,8 +10,8 @@ import (
 	_ "github.com/jinzhu/gorm/dialects/postgres"
 	_ "github.com/mattn/go-sqlite3"
 
-	"github.com/paurudev/admin"
-	"github.com/paurudev/qor-website-cases/config"
+	"github.com/pauradev/admin"
+	"github.com/pauradev/qor-website-cases/config"
 )
 
 // Create a GORM-backend model
