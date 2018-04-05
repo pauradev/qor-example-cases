@@ -7,9 +7,9 @@ import (
 	"github.com/fatih/color"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/postgres"
-	"github.com/qor/admin"
-	"github.com/qor/qor"
-	"github.com/qor/qor-example-cases/config"
+	"github.com/paurudev/admin"
+	"github.com/paurudev/qor"
+	"github.com/paurudev/qor-example-cases/config"
 	appkitlog "github.com/theplant/appkit/log"
 	"github.com/theplant/appkit/server"
 )

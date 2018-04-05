@@ -4,7 +4,7 @@ import (
 	"os"
 
 	"github.com/jinzhu/gorm"
-	"github.com/qor/admin"
+	"github.com/paurudev/admin"
 )
 
 // DB gorm DB instance
