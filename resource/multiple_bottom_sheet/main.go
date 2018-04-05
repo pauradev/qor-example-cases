@@ -11,7 +11,7 @@ import (
 	_ "github.com/mattn/go-sqlite3"
 
 	"github.com/paurudev/admin"
-	"github.com/paurudev/qor-example-cases/config"
+	"github.com/paurudev/qor-website-cases/config"
 )
 
 // Create a GORM-backend model

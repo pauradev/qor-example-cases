@@ -9,7 +9,7 @@ import (
 	_ "github.com/jinzhu/gorm/dialects/postgres"
 	"github.com/paurudev/admin"
 	"github.com/paurudev/qor"
-	"github.com/paurudev/qor-example-cases/config"
+	"github.com/paurudev/qor-website-cases/config"
 	appkitlog "github.com/theplant/appkit/log"
 	"github.com/theplant/appkit/server"
 )

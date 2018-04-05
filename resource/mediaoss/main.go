@@ -10,7 +10,7 @@ import (
 	"github.com/paurudev/media"
 	"github.com/paurudev/media/oss"
 	"github.com/paurudev/oss/s3"
-	"github.com/paurudev/qor-example-cases/config"
+	"github.com/paurudev/qor-website-cases/config"
 	appkitlog "github.com/theplant/appkit/log"
 	"github.com/theplant/appkit/server"
 )
