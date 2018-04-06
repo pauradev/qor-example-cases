@@ -5,9 +5,9 @@ import (
 	"os"
 
 	"github.com/fatih/color"
-	"github.com/jinzhu/gorm"
-	_ "github.com/jinzhu/gorm/dialects/mysql"
-	_ "github.com/jinzhu/gorm/dialects/postgres"
+	"github.com/pauradev/gorm"
+	_ "github.com/pauradev/gorm/dialects/mysql"
+	_ "github.com/pauradev/gorm/dialects/postgres"
 	_ "github.com/mattn/go-sqlite3"
 
 	"github.com/pauradev/admin"

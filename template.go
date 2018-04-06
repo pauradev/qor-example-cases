@@ -4,8 +4,8 @@ import (
 	"net/http"
 
 	"github.com/fatih/color"
-	"github.com/jinzhu/gorm"
-	_ "github.com/jinzhu/gorm/dialects/postgres"
+	"github.com/pauradev/gorm"
+	_ "github.com/pauradev/gorm/dialects/postgres"
 	"github.com/pauradev/qor-website-cases/config"
 	appkitlog "github.com/theplant/appkit/log"
 	"github.com/theplant/appkit/server"

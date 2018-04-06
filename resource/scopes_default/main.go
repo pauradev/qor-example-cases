@@ -5,8 +5,8 @@ import (
 	"os"
 
 	"github.com/fatih/color"
-	"github.com/jinzhu/gorm"
-	_ "github.com/jinzhu/gorm/dialects/postgres"
+	"github.com/pauradev/gorm"
+	_ "github.com/pauradev/gorm/dialects/postgres"
 	"github.com/pauradev/admin"
 	"github.com/pauradev/qor"
 	"github.com/pauradev/qor-website-cases/config"

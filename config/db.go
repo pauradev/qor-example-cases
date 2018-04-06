@@ -3,7 +3,7 @@ package config
 import (
 	"os"
 
-	"github.com/jinzhu/gorm"
+	"github.com/pauradev/gorm"
 	"github.com/pauradev/admin"
 )
 
